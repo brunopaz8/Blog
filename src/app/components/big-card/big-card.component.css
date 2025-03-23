@@ -1,14 +1,16 @@
 .container_big-card {
     display: flex;
     flex-direction: row;
-    margin-left: 50px;
-    margin-right: 50px;
     border-radius: 10px;
     color: #111;
     background-color: white;
     justify-content: space-between;
     align-items: flex-start; 
     padding: 20px;
+    height: 300px;
+    box-sizing: content-box
+;
+    
 }
 
 .big-card_text {
@@ -46,3 +48,7 @@
     
 }
 
+a {
+    text-decoration: none;
+    color: #111;
+}

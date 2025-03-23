@@ -2,8 +2,21 @@
     background-color: #2f2d2d;
     color: white;
     font-family: 'segoe UI';
+    width: 100%;
+    padding-top: 20px;
+    
+
+}
+
+.home_menu {
+    margin-top: 20px;
+    margin-left: 55px;
 }
 
 .articles_main{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
+
