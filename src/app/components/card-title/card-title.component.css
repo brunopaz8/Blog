@@ -1,0 +1,12 @@
+.container_menu_title {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    
+}
+
+.title_name {
+    font-size: 35px;
+    display: flex;
+    align-items: center;    
+}
