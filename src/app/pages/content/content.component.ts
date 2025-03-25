@@ -12,4 +12,5 @@ export class ContentComponent {
   photoCover:string = ""
   contentTitle:string = ""
   contentDescription:string = ""
+  contentowner:string = ""
 }

@@ -10,12 +10,12 @@
 
         <div class="small-card_title">
             <samp>{{CardDate}}</samp>
-            <h1> <a href="">{{CardTitle}}</a></h1>
+            <h1> <a [routerLink]="['content', Id]">{{CardTitle}}</a></h1>
         </div>
         
         <div class="small-card_descripition">
             <p>
-                <a href="">
+                <a [routerLink]="[`content`, Id]">
                 {{cardDescription}}
                 </a>
             </p>

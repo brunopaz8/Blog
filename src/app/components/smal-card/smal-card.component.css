@@ -46,7 +46,7 @@
 
 .small-card_descripition > p{
     margin-bottom: 10px;
-    
+     
 }
 
 .small-card_descripition > samp {
@@ -55,7 +55,7 @@
 }
 
 .small-card_title > h1 > a, .small-card_descripition > p > a{
-    color: black;
+    color: rgb(0, 0, 0);
     transition: color 0.3s;
 }
 
@@ -65,6 +65,6 @@
     transition: all 0.4s ease;
 }
 
-.container_small-card:hover .small-card_text > .small-card_title > h1 > a, .small-card_text > .small-card_descripition > p > a{
+.container_small-card:hover .small-card_text > .small-card_title > h1 > a, .container_small-card:hover .small-card_text > .small-card_descripition > p > a{
     color: rgba(41, 40, 63, 0.61);
 }
