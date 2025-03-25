@@ -7,7 +7,7 @@ import { CardTitleComponent } from "../../components/card-title/card-title.compo
 
 @Component({
   selector: 'app-home',
-  imports: [MenuTitleComponent, MenuBarComponent, BigCardComponent, SmalCardComponent, CardTitleComponent],
+  imports: [MenuTitleComponent, BigCardComponent, SmalCardComponent, CardTitleComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
