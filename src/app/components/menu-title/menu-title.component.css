@@ -6,10 +6,10 @@
 }
 
 .title_name {
-    font-family: 'Segoe UI', sans-serif;
-    font-size: 55px;
+    font-size: 65px;
     display: flex;
-    align-items: center; 
+    align-items: center;
+     
     
 }
 
@@ -20,7 +20,7 @@
 .links{
     display: flex;
     justify-content: flex-end;
-   padding-left: 785px;
+   padding-left: 555px;
     margin-right: 20px;
 }
 a {
@@ -32,12 +32,15 @@ a {
 h1{
     margin-top: 20px;
     margin-bottom: 35px;
+    width: 900px;
 }
 ul {
-    color: rgba(255, 255, 255, 0.747);
+    color: rgba(209, 208, 208, 0.699);
     margin-top: 0;
     margin-bottom: 0;
-    padding-left: 16px;
+    padding-left: 0px;
+    font-size: 25px;
+    font-weight: bolder;
     
 }
 

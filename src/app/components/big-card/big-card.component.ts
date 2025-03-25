@@ -7,5 +7,10 @@ import { Component } from '@angular/core';
   styleUrl: './big-card.component.css'
 })
 export class BigCardComponent {
+  datePost:string = ""
+  cardTitle:string = ""
+  
+
+
 
 }
