@@ -9,7 +9,7 @@ export const routes: Routes = [
         pathMatch:`full`
     },
     {
-        path:`content`,
+        path:`content/:id`,
         component: ContentComponent
     },
     {

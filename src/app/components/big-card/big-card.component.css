@@ -28,13 +28,13 @@
     text-align: left;
     
 }
-.big-card_descripition > samp{
+.big-card_descripition > span{
     font-size: 15px;
     color: rgba(31, 30, 30, 0.568);
 }
 
 
-.big-card_title > samp {
+.big-card_title > span {
     padding-left: 1px;
     display: block; 
     font-size: 15px;
@@ -52,7 +52,7 @@
 
 
 .big-card_photo > img {
-    border-radius: 3px;
+    border-radius: 5px;
     object-fit: cover;
     max-height: 390px; 
     max-width: 800px;

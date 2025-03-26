@@ -41,7 +41,7 @@
     width: 900px;
   }
 
-  .content__description > samp{
+  .content__description > span{
     display: flex;
     padding-top: 10px;
     font-size: 15px;

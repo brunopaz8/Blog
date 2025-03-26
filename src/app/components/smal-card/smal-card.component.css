@@ -39,7 +39,7 @@
     font-weight: bold;
     margin-bottom: 15px;
 }
-.small-card_title > samp {
+.small-card_title > span {
     font-size: 15px;
     color: rgba(31, 30, 30, 0.568);
 }
@@ -49,7 +49,7 @@
      
 }
 
-.small-card_descripition > samp {
+.small-card_descripition > span {
     font-size: 15px;
     color: rgba(31, 30, 30, 0.568);
 }
