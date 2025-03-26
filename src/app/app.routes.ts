@@ -5,10 +5,15 @@ import { ContentComponent } from './pages/content/content.component';
 export const routes: Routes = [
     {
         path: ``,
-        component:HomeComponent
+        component:HomeComponent,
+        pathMatch:`full`
     },
     {
-        path:`content/:id`,
+        path:`content`,
         component: ContentComponent
+    },
+    {
+        path:`**`,
+        redirectTo:``
     }
 ];
