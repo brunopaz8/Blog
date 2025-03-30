@@ -1,59 +1,83 @@
-# Blog
+# 📚 Blog Pessoal com Angular 17
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+Este é um projeto de um **blog pessoal** desenvolvido com **Angular 17**. O objetivo foi praticar e aprimorar conhecimentos adquiridos sobre o framework, incluindo **componentização** e **estilização**.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🛠️ Tecnologias Utilizadas
 
-```bash
+- **[Angular CLI](https://github.com/angular/angular-cli)**** 19.2.4** – Framework para construção da interface
+- **TypeScript** – Linguagem utilizada para o desenvolvimento
+- **CSS** – Estilização dos componentes e layout
+
+---
+
+## 📸 Capturas de Tela
+
+### 🔹 Parte Superior da Página
+<img src="imgs/page/imagem_blog_top.png" width= 1000px>
+
+### 🔹 Parte Inferior da Página
+<img src="imgs/page/imagem_blog_bottom.png" width= 1000px>
+
+### 🔹 Animação do Botão
+<img src="imgs/button/image-button.png" width = 400px>  <img src="imgs/button/image-button-hover.png" width = 400px>
+
+&#x20;\
+📌*Efeito hover nos botões, melhorando a experiência do usuário.*
+
+### 🔹 Dentro do Conteúdo
+<img src="imgs/page/imagem_blog_insede.png" width= 1000px>
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Para rodar o projeto localmente, siga os passos abaixo:  
+
+1️⃣ **Clone o repositório:**  
+
+```sh
+git clone https://github.com/brunopaz8/Blog
+cd Blog
+```
+
+2️⃣ **Instale as dependências:**  
+
+```sh
+npm install
+```
+
+3️⃣ **Inicie o servidor de desenvolvimento:**  
+
+```sh
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Agora, abra o navegador e acesse `http://localhost:4200/`. O aplicativo será recarregado automaticamente sempre que você modificar os arquivos.  
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+📌 *Este projeto está em constante evolução e pode receber melhorias e novas funcionalidades no futuro.*
 
-```bash
-ng generate component component-name
-```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-```bash
-ng generate --help
-```
 
-## Building
 
-To build the project run:
 
-```bash
-ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
 
-```bash
-ng test
-```
 
-## Running end-to-end tests
 
-For end-to-end (e2e) testing, run:
 
-```bash
-ng e2e
-```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
-## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+
+
+
