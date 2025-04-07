@@ -14,20 +14,20 @@ Este é um projeto de um **blog pessoal** desenvolvido com **Angular 17**. O obj
 
 ## 📸 Capturas de Tela
 
-### 🔹 Parte Superior da Página
+### 🟣 Parte Superior da Página
 <img src="imgs/page/imgs_blog_top.png" width= 800px>
 
-### 🔹 Parte Dos Botões
+### 🟣 Parte Dos Botões
 <img src="imgs/page/imgs_blog_buttons.png" width= 800px>
 
-### 🔹 Parte Inferior
+### 🟣 Parte Inferior
 <img src="imgs/page/imgs_blog_bottom.png" width= 800px>
 
-### 🔹 Animação do Botão
+### 🟣 Animação do Botão
 <img src="imgs/button/image-button.png" width = 400px>  <img src="imgs/button/image-button-hover.png" width = 400px>
 
-### 🔹 Dentro do Conteúdo
-<img src="imgs/page/imagem_blog_insede.png" width= 1000px>
+### 🟣 Dentro do Conteúdo
+<img src="imgs/page/imgs_blog_insede.png" width= 1000px>
 
 ---
 
@@ -58,7 +58,7 @@ Agora, abra o navegador e acesse `http://localhost:4200/`. O aplicativo será re
 
 ---
 
-📌 *Este projeto está em constante evolução e pode receber melhorias e novas funcionalidades no futuro.*
+
 
 
 
