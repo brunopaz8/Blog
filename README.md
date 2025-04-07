@@ -15,16 +15,16 @@ Este é um projeto de um **blog pessoal** desenvolvido com **Angular 17**. O obj
 ## 📸 Capturas de Tela
 
 ### 🔹 Parte Superior da Página
-<img src="imgs/page/imagem_blog_top.png" width= 1000px>
+<img src="imgs/page/imgs_blog_top.png" width= 800px>
 
-### 🔹 Parte Inferior da Página
-<img src="imgs/page/imagem_blog_bottom.png" width= 1000px>
+### 🔹 Parte Dos Botões
+<img src="imgs/page/imgs_blog_buttons.png" width= 800px>
+
+### 🔹 Parte Inferior
+<img src="imgs/page/imgs_blog_bottom.png" width= 800px>
 
 ### 🔹 Animação do Botão
 <img src="imgs/button/image-button.png" width = 400px>  <img src="imgs/button/image-button-hover.png" width = 400px>
-
-&#x20;\
-📌*Efeito hover nos botões, melhorando a experiência do usuário.*
 
 ### 🔹 Dentro do Conteúdo
 <img src="imgs/page/imagem_blog_insede.png" width= 1000px>
