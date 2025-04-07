@@ -1,29 +1,54 @@
-.container_menu_title {
+.container_menu_bottom {
     display: flex;
     justify-content: flex-start; 
     align-items: center;
     
+    height: 228px;
+    margin-top: 15px;
+    margin-left: 55px;
+    padding-top: 20px;
 }
 
 .title_name {
-    font-size: 65px;
+    font-size: 50px;
     display: flex;
     align-items: center;
-    
+    color: rgba(209, 208, 208, 0.699);
 }
 
 .title_increment {
     font-size: 20px;
 }
 
-.links{
+.links {
     display: flex;
     justify-content: flex-end;
-   padding-left: 555px;
+   padding-left: 715px;
     margin-right: 20px;
 }
 
-img{
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+}
+
+.terms {
+    text-align: left;
+    display: flex;
+    gap: 30px;
+}
+
+.habilits {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+img {
+    
     max-width: 40px;
     max-height: 40px;
     margin-right: 15px;
@@ -36,9 +61,9 @@ a {
     font-size: 20px;
 }
 
-h1{
+h1 {
     margin-bottom: 35px;
-    width: 810px;
+    width: 635px;
 }
 
 ul {
@@ -47,7 +72,16 @@ ul {
     margin-bottom: 0;
     padding-left: 0px;
     font-size: 25px;
-    font-weight: bolder;    
+    font-weight: bolder;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid rgba(167, 166, 166, 0.699);
+}
+
+span {
+    color: rgba(167, 166, 166, 0.699);
 }
 
 a:hover img {
@@ -56,4 +90,3 @@ a:hover img {
     box-shadow: 0px 1px 5px 1px rgba(99, 98, 98, 0.479);
     transition: all 0.6s ease;
 }
-
