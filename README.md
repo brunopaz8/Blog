@@ -40,10 +40,8 @@ Este é um projeto de um **blog pessoal** desenvolvido com **Angular 17**. O obj
 ---
 
 ### 🟣 Vídeo do blog
-<video width="640" height="360" controls>
-  <source src="imgs/vid/vid_blog.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+[![Assista à demonstração](https://img.youtube.com/vi/-2n7A1shar8/maxresdefault.jpg)](https://youtu.be/-2n7A1shar8)
+
 
 
 
