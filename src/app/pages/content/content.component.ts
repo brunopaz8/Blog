@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { RouterLink, ActivatedRoute } from '@angular/router';
 import { dataFake } from '../../data/dataFake';
 
+
 @Component({
   selector: 'app-content',
   imports: [RouterLink],

@@ -2,7 +2,7 @@
 
 Este é um projeto de um **blog pessoal** desenvolvido com **Angular 17**. O objetivo foi praticar e aprimorar conhecimentos adquiridos sobre o framework, incluindo **componentização** e **estilização**.
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -10,26 +10,42 @@ Este é um projeto de um **blog pessoal** desenvolvido com **Angular 17**. O obj
 - **TypeScript** – Linguagem utilizada para o desenvolvimento
 - **CSS** – Estilização dos componentes e layout
 
----
+
 
 ## 📸 Capturas de Tela
 
 ### 🟣 Parte Superior da Página
-<img src="imgs/page/imgs_blog_top.png" width= 800px>
+<img src="imgs/page/imgs_blog_top.png" width= 640px>
+
+---
 
 ### 🟣 Parte Dos Botões
-<img src="imgs/page/imgs_blog_buttons.png" width= 800px>
+<img src="imgs/page/imgs_blog_buttons.png" width= 640px>
+
+---
 
 ### 🟣 Parte Inferior
-<img src="imgs/page/imgs_blog_bottom.png" width= 800px>
+<img src="imgs/page/imgs_blog_bottom.png" width= 640px>
+
+---
 
 ### 🟣 Animação do Botão
 <img src="imgs/button/image-button.png" width = 400px>  <img src="imgs/button/image-button-hover.png" width = 400px>
+
+---
 
 ### 🟣 Dentro do Conteúdo
 <img src="imgs/page/imgs_blog_insede.png" width= 1000px>
 
 ---
+
+### 🟣 Vídeo do blog
+<video width="640" height="360" controls>
+  <source src="imgs/vid/vid_blog.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
+
 
 ## 🚀 Como Executar o Projeto
 

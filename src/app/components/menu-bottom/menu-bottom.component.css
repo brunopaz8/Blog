@@ -89,8 +89,7 @@ span {
 }
 
 a:hover img {
-    max-width: 43px;
-    max-height: 43px;
-    box-shadow: 0px 1px 5px 1px rgba(99, 98, 98, 0.479);
+    transform: translateY(-2px);
+    box-shadow: 0px 1px 5px 1px rgba(146, 146, 146, 0.479);
     transition: all 0.6s ease;
 }

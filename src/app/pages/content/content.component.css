@@ -11,10 +11,10 @@
 
 .container__content{
     width: 100%;
-    height: 100vh;
+    height: 900px;
     background-color: #2f2d2d;
 
-    padding-top: 24px;
+    padding-top: 30px;
     
     align-items: center;
     display: flex;
@@ -29,6 +29,7 @@
     min-width: 500px;
     height: 300px;
     margin-top: 25px;
+    margin-bottom: 10px;
   }
   
   .content__description{
@@ -36,7 +37,7 @@
   }
   
   .content__description > p{
-    margin-top: 20px;
+    margin-top: 14px;
     color: rgb(0, 0, 0);
     width: 900px;
   }
@@ -48,9 +49,60 @@
     color: rgba(31, 30, 30, 0.568);
   }
 
- a{
+  .bottom {
+    background-color: #2f2d2d;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+   
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 22px;
+}
+
+.terms {
+    text-align: left;
+    display: flex;
+    gap: 30px;
+}
+
+.habilits {
+    display: flex;
+    gap: 20px;
     justify-content: center;
-    margin-top: 20px;
-    padding-bottom: 10px;
-  }
+}
+
+.button {
+  border: solid 1px rgba(99, 97, 97, 0.568);
+  margin: 20px auto 25px auto; 
+  padding: 6px 12px;
+  width: fit-content; 
+  border-radius: 4px;
+}
+
+.button a {
+  display: inline-block; 
+  width: auto; 
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  color: rgba(10, 10, 10, 0.678);
+}
+
+.button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.2);
+  
+  transition: all 0.6s ease;
+}
+
+span {
+  color: rgba(167, 166, 166, 0.699);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(82, 82, 82, 0.699);
+}
